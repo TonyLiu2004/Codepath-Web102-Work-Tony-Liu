@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/1FStlNb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur and Windows Xbox game bar
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,7 +38,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+- It was hard to have the images be a specific size in every cell.
+- I had some trouble setting up the tables for the cells.
 ## License
 
     Copyright [2023] [Tony Liu]
